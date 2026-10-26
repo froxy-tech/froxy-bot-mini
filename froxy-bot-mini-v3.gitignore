@@ -1,0 +1,4 @@
+node_modules/
+session_froxy_mini/
+.env
+*.log

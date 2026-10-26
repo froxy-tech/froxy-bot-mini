@@ -1,0 +1,19 @@
+{
+  "name": "froxy-bot-mini-v3",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FROXY BOT MINI V3 WhatsApp bot starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
